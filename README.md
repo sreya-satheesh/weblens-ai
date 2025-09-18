@@ -50,15 +50,15 @@ npm install
 
 - Use the AI features:
 
--- Summarize to get key points.
+   - Summarize to get key points.
 
--- Translate to switch languages.
+   - Translate to switch languages.
 
--- Rewrite to change tone.
+   - Rewrite to change tone.
 
--- Proofread to improve grammar and clarity.
+   - Proofread to improve grammar and clarity.
 
-- Copy or export the processed text for your work.
+   - Copy or export the processed text for your work.
 
 ---
 
