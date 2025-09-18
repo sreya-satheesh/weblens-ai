@@ -2,14 +2,6 @@
 
 WebLens AI is a web application that converts images into editable text and provides a suite of AI-powered tools to summarize, translate, rewrite, and proofread the extracted content. It enables users to turn visual information into actionable content instantly.
 
-<img width="1200" height="800" alt="New Project" src="https://github.com/user-attachments/assets/b69137b8-57c9-470a-9ae4-876a5ba26b93" />
-<img width="1200" height="800" alt="New Project (1)" src="https://github.com/user-attachments/assets/66123ea3-b72a-420d-a9ad-e6788ad42771" />
-<img width="1200" height="800" alt="New Project (2)" src="https://github.com/user-attachments/assets/4c5d2526-e6f5-440a-a47b-35b4c7d832a8" />
-<img width="1200" height="800" alt="New Project (3)" src="https://github.com/user-attachments/assets/a425a1e3-56ad-4980-aa77-a0ab525973c3" />
-<img width="1200" height="800" alt="New Project (4)" src="https://github.com/user-attachments/assets/4ff996d6-056c-48bd-bfb3-9b56b82d6747" />
-<img width="1200" height="800" alt="New Project (5)" src="https://github.com/user-attachments/assets/51551c78-09ca-4087-8b62-22cb3553b45f" />
-<img width="1200" height="800" alt="New Project (6)" src="https://github.com/user-attachments/assets/4e0a2ffe-3b3d-47e4-aff0-7936cdbb5da2" />
-
 ---
 
 ## Features
