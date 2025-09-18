@@ -1,0 +1,10 @@
+{
+  "placeholderImages": [
+    {
+      "id": "weblens-placeholder",
+      "description": "A placeholder illustration for the image uploader, showing an abstract representation of image analysis.",
+      "imageUrl": "https://picsum.photos/seed/weblens/1200/800",
+      "imageHint": "abstract technology"
+    }
+  ]
+}
