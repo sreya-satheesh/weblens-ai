@@ -1,12 +1,14 @@
 # WebLens AI
 
-WebLens AI is a web application built for the Google Chrome Built-in AI Challenge. It turns images into editable text and provides a suite of AI-powered tools to summarize, translate, rewrite, and proofread the extracted content, enabling users to turn visual information into actionable content instantly.
+WebLens AI is a web app that lets you turn any image into text you can edit. It also gives you smart tools to quickly summarize, translate, rewrite, or proofread that text—making it easy to turn pictures into useful content right away.
 
 ---
 
 ## Problem & Solution
 
-In our daily digital lives, we constantly encounter text locked within images—screenshots, articles, or social media posts. Manually transcribing this text is slow and inefficient. WebLens AI solves this problem by providing a seamless, one-click solution to extract, refine, and repurpose this content. By leveraging powerful on-device AI, it offers a private, fast, and cost-effective way to make visual information fully accessible and editable.
+Every day we come across text hidden inside images—like screenshots, articles, or social media posts. 
+Typing it out by hand takes time and effort. 
+WebLens AI makes this easy with a one-click tool that pulls out the text and helps you edit, summarize, translate, or refine it. With fast, private, and affordable AI running right on your device, it turns images into content you can actually use.
 
 ---
 
@@ -69,9 +71,7 @@ In our daily digital lives, we constantly encounter text locked within images—
 
 -   **Frontend:** Next.js, React, TypeScript, Tailwind CSS, ShadCN UI
 -   **Backend & AI:** Genkit, Google AI (Gemini)
--   **APIs Used:** Prompt API, Summarizer API, Translator API, Rewriter API, Proofreader API
--   **Server:** Next.js Server Actions
--   **Version Control:** Git, GitHub
+-   **APIs:** Prompt API, Summarizer API, Translator API, Rewriter API, Proofreader API
 
 ---
 
