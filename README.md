@@ -28,7 +28,7 @@ WebLens AI makes this easy with a one-click tool that pulls out the text and hel
 
 1.  **Clone the repository**
     ```bash
-    git clone https://github.com/your-username/weblens-ai.git
+    git clone https://github.com/sreya-satheesh/weblens-ai.git
     cd weblens-ai
     ```
 
